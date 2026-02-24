@@ -1,0 +1,8 @@
+google-api-core==2.30.0
+google-auth==2.48.0
+google-cloud-core==2.5.0
+google-cloud-storage==3.9.0
+google-crc32c==1.8.0
+google-resumable-media==2.8.0
+googleapis-common-protos==1.72.0
+protobuf==6.33.5
