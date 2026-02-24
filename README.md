@@ -1,4 +1,4 @@
-# SQL porjects
+# SQL projects
 
 This repository contains a few quick projects where I'm practicing SQL queries.
 Notebooks were originally created in Kaggle. This is a work in progress.
